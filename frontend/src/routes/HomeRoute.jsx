@@ -22,6 +22,8 @@ const HomeRoute = (props) => {
         favList={props.favList}
         topicData={props.topicData}
         dispatch={props.dispatch}
+        darkMode={props.darkMode}
+        darkModeValue={props.darkModeValue}
       />
       <PhotoList 
         state={props.state}

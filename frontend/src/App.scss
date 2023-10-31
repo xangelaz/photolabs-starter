@@ -2,6 +2,15 @@
   margin: 24px;
 }
 
+.App.dark,
+  .App.dark {
+    margin: 0px;
+    padding: 24px;
+    background: #0f0f0f;
+    border-color: rgb(246, 60, 60);
+    color: rgb(255, 255, 255);
+  }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
